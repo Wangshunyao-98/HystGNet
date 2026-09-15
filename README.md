@@ -6,7 +6,7 @@ This repository contains the model architecture and training scripts for the pap
 📄 Citation
 
 If you find this code useful in your research, please cite our paper:
-Wang S, He S, Li J, et al.** Generalizable deep learning-based hysteresis analysis of varying post-cast precast beam-column joints[J]. Journal of Building Engineering, 2026, 117082.
+Wang S, He S, Li J, et al. Generalizable deep learning-based hysteresis analysis of varying post-cast precast beam-column joints[J]. Journal of Building Engineering, 2026, 117082.
 
 📝 Abstract
 
