@@ -10,7 +10,7 @@ Wang S, He S, Li J, et al.** Generalizable deep learning-based hysteresis analys
 
 📝 Abstract
 
-#This work proposes HystGNet, a generalizable deep learning model designed to predict the hysteresis loops of post-cast precast beam-column joints under cyclic loading. Unlike traditional empirical models, HystGNet captures complex non-linear behaviors across varying geometric and material parameters, offering a fast and accurate alternative to finite element analysis (FEA).
+This work proposes HystGNet, a generalizable deep learning model designed to predict the hysteresis loops of post-cast precast beam-column joints under cyclic loading. Unlike traditional empirical models, HystGNet captures complex non-linear behaviors across varying geometric and material parameters, offering a fast and accurate alternative to finite element analysis (FEA).
 
 📧 Contact
 
